@@ -1,2 +1,3 @@
 # Karuna_demo
-This is my first      name
+This is my first git repository
+Author = Karuna Mishra
